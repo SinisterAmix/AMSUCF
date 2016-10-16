@@ -5,7 +5,7 @@
 .background td { padding: 0;          }
 .lava          { background: rgb(255, 100, 100); }
 .wall          { background: white;   }
-
+.floater       { background: rgb(40, 111, 191); }
 .game {
   position: relative;
 }
