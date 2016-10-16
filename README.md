@@ -1,0 +1,2 @@
+# AMSUCF
+Simple level generator
